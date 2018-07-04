@@ -12,6 +12,7 @@
 		ED52CA8C20ED079800316CFF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED52CA8A20ED079800316CFF /* Main.storyboard */; };
 		ED52CA8E20ED079B00316CFF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED52CA8D20ED079B00316CFF /* Assets.xcassets */; };
 		ED52CA9120ED079B00316CFF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED52CA8F20ED079B00316CFF /* LaunchScreen.storyboard */; };
+		ED52CA9D20ED0C8700316CFF /* TimGM6mb.sf2 in Resources */ = {isa = PBXBuildFile; fileRef = ED52CA9C20ED0C8700316CFF /* TimGM6mb.sf2 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ED52CA8D20ED079B00316CFF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ED52CA9020ED079B00316CFF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED52CA9220ED079B00316CFF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED52CA9C20ED0C8700316CFF /* TimGM6mb.sf2 */ = {isa = PBXFileReference; lastKnownFileType = file; path = TimGM6mb.sf2; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				ED52CA8620ED079800316CFF /* AppDelegate.swift */,
 				ED52CA8820ED079800316CFF /* ViewController.swift */,
+				ED52CA9C20ED0C8700316CFF /* TimGM6mb.sf2 */,
 				ED52CA8A20ED079800316CFF /* Main.storyboard */,
 				ED52CA8D20ED079B00316CFF /* Assets.xcassets */,
 				ED52CA8F20ED079B00316CFF /* LaunchScreen.storyboard */,
@@ -125,6 +128,7 @@
 				ED52CA9120ED079B00316CFF /* LaunchScreen.storyboard in Resources */,
 				ED52CA8E20ED079B00316CFF /* Assets.xcassets in Resources */,
 				ED52CA8C20ED079800316CFF /* Main.storyboard in Resources */,
+				ED52CA9D20ED0C8700316CFF /* TimGM6mb.sf2 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
